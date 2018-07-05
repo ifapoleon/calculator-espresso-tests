@@ -42,6 +42,8 @@ Test generates random theme name from the given array.
 
     Expected result: Theme saves and the theme name corresponds to the chosen one
 
+[![](https://i.imgur.com/6RDTiJz.gif)](https://i.imgur.com/6RDTiJz.gif)
+
 #### Check user can change widget color
 
 Test generates random HEX color code.
@@ -55,3 +57,5 @@ Test generates random HEX color code.
     - Compare entered HEX code to saved one
 
     Expected result: Saved HEX color code should be the same as entered one.
+
+[![](https://i.imgur.com/qsYzXmw.gif)](https://i.imgur.com/qsYzXmw.gif)   
