@@ -20,6 +20,7 @@ application, what is completely written in Kotlin. Tests also written in [Kotlin
 
 #### Check what application opens and the name is correct
 
+Pre-condition: application name set as **Calculator_debug**.
 
     - Open the application
     - Compare given application name to real application name
@@ -56,6 +57,6 @@ Test generates random HEX color code.
     - Tap on Save
     - Compare entered HEX code to saved one
 
-    Expected result: Saved HEX color code should be the same as entered one.
+    Expected result: Saved HEX color code should be the same as entered one
 
 [![](https://i.imgur.com/qsYzXmw.gif)](https://i.imgur.com/qsYzXmw.gif)   
