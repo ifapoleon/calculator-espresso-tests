@@ -14,6 +14,7 @@ application, what is completely written in Kotlin. Tests also written in [Kotlin
 - Choose **Android Instrumentation Tests** configuration
 - Choose **app** module
 - Save and run Tests
+- Click on **Create New Virtual Device** in order to use emulated Android device
 
 ### Test cases
 
@@ -39,7 +40,7 @@ Test generates random theme name from the given array.
     - Tap on Save
     - Compare theme name with chosen one
 
-    Expected result: Theme saves and the theme name correspons to the chosen one
+    Expected result: Theme saves and the theme name corresponds to the chosen one
 
 #### Check user can change widget color
 
@@ -54,4 +55,3 @@ Test generates random HEX color code.
     - Compare entered HEX code to saved one
 
     Expected result: Saved HEX color code should be the same as entered one.
-    
